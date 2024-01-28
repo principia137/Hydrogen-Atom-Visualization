@@ -1,9 +1,3 @@
----
-author:
-date: September 2023
-title: Hydrogen Atom Visualization
----
-
 # Wave function table
 
  <img width="318" alt="image" src="https://github.com/principia137/Hydrogen-Atom-Visualization/assets/62958764/f2be4858-6833-4fa7-b265-8c20e8ac8699">
