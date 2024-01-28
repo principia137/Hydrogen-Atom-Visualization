@@ -8,7 +8,7 @@
 
 ## Radial Function($r^2 R(r)^2$) {#radial-functionr2-rr2 .unnumbered}
 
-![for some n=1,2 , l=0,1](./img/Radial.PNG){width="13cm"}
+![for some n=1,2 , l=0,1](./img/Radial.PNG)
 
 ## Spherical Harmonic Function($Y(\theta,\phi)^2$) {#spherical-harmonic-functionythetaphi2 .unnumbered}
 
